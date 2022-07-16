@@ -1,0 +1,46 @@
+// Create different files to initialize a new plugin
+// ::
+// :: [working_dir].sublime-commands
+// :: 
+// :: [working_dir].sublime-settings
+// :: 
+// :: [Menu, Context, Tab Context, Sidebar, Tab Sidebar Context].sublime-menu
+// ::
+// :: /__project
+// :: /__project/[working_dir].sublime-project
+// :: /__project/[working_dir].sublime-workspace
+// ::
+[
+	{
+		"caption": "New Commands File",
+		"command": ""
+	},
+	{
+		"caption": "New Settings File",
+		"command": ""
+	},
+	{
+		"caption": "New Menu (Main)",
+		"command": ""
+	},
+	{
+		"caption": "New Menu (Context)",
+		"command": ""
+	},
+	{
+		"caption": "New Menu (Tab Context)",
+		"command": ""
+	},
+	{
+		"caption": "New Menu (Sidebar)",
+		"command": ""
+	},
+	{
+		"caption": "New Menu (Tab Sidebar Context)",
+		"command": ""
+	},
+	{
+		"caption": "New __project",
+		"command": ""
+	}
+]
