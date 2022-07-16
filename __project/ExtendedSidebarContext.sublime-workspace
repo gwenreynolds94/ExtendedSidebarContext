@@ -525,10 +525,7 @@
 			{
 				"buffer_size": 170,
 				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-			]
+			}
 		}
 	],
 	"build_system": "",
@@ -795,6 +792,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/__project/ExtendedSidebarContext.sublime-project",
 		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Commit Message.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Preferences.sublime-settings",
@@ -921,8 +919,7 @@
 		"/C/Users/jonat/AHK Scripts/TestingEnvGen/Loops/ParsingA.ahk",
 		"/C/Users/jonat/AHK Scripts/IDon'tWantToLoseThese/MyOwn/allAHKfunctionsAndKeys.sublime-completions",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Faded.tmTheme",
-		"/C/Users/jonat/AHK Scripts/ComponentsToAdd/ActivateAllieWindows.ahk",
-		"/C/Users/jonat/AHK Scripts/MessagesTests/msgReceiveTest.ahk"
+		"/C/Users/jonat/AHK Scripts/ComponentsToAdd/ActivateAllieWindows.ahk"
 	],
 	"find":
 	{
