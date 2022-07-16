@@ -1,0 +1,1109 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show",
+				"show_minimap"
+			],
+			[
+				"disa",
+				"disable_toggle"
+			],
+			[
+				"show_",
+				"show_sidebar"
+			],
+			[
+				"user_Set",
+				"user_settings"
+			],
+			[
+				"ToggleSidebarAndMinimap",
+				"ToggleSidebarAndMinimap.sublime-settings"
+			],
+			[
+				"Side",
+				"ToggleSidebarAndMinimap"
+			],
+			[
+				"exc",
+				"excLeft"
+			],
+			[
+				"EXCLUD",
+				"EXCLUDESBAR"
+			],
+			[
+				"EXC",
+				"EXCLUDESMAP"
+			],
+			[
+				"EX",
+				"EXCLUDES"
+			],
+			[
+				"EXCL",
+				"EXCLUDESMAP"
+			],
+			[
+				"C",
+				"CHAOTICTOGGLE"
+			],
+			[
+				"tog",
+				"toggle_active"
+			],
+			[
+				"chaoti",
+				"chaotic_toggle"
+			],
+			[
+				"settin",
+				"settings_filename"
+			],
+			[
+				"Toggle",
+				"ToggleSidebarAndMinimap.sublime-settings"
+			],
+			[
+				"Handle",
+				"HandleWindow.dynamicReference"
+			],
+			[
+				"Handl",
+				"HandleWindow.dynamicReference"
+			],
+			[
+				"Hand",
+				"HandleWindow.dynamicReference"
+			],
+			[
+				"WinExist",
+				"WinExist()"
+			],
+			[
+				"WinGetPo",
+				"WinGetPos"
+			],
+			[
+				"WinEx",
+				"WinExist()"
+			],
+			[
+				"WinGetP",
+				"WinGetPos"
+			],
+			[
+				"Splash",
+				"SplashTextOff"
+			],
+			[
+				"SplashTe",
+				"SplashTextOn"
+			],
+			[
+				"ISOb",
+				"IsObject()"
+			],
+			[
+				"has",
+				"hasStruct"
+			],
+			[
+				"n_ini",
+				"n_initObj"
+			],
+			[
+				"n_",
+				"n_initObj"
+			],
+			[
+				"Validate",
+				"ValidateObj"
+			],
+			[
+				"NumPu",
+				"NumPut()"
+			],
+			[
+				"structAd",
+				"structAddress"
+			],
+			[
+				"structa",
+				"structAddress"
+			],
+			[
+				"structAdd",
+				"structAddress"
+			],
+			[
+				"NumGe",
+				"NumGet() ["
+			],
+			[
+				"Check",
+				"CheckForEmptyStruct"
+			],
+			[
+				"Copy",
+				"CopyStruct"
+			],
+			[
+				"GetRe",
+				"GetRECTFromInts"
+			],
+			[
+				"VarSet",
+				"VarSetCapacity()"
+			],
+			[
+				"A_Sc",
+				"A_ScreenHeight"
+			],
+			[
+				"A_Scr",
+				"A_ScreenWidth"
+			],
+			[
+				"struc",
+				"structAddr"
+			],
+			[
+				"VarSe",
+				"VarSetCapacity()"
+			],
+			[
+				"localStruc",
+				"localStructAddrA"
+			],
+			[
+				"local",
+				"localStructAddrA"
+			],
+			[
+				"A_Scre",
+				"A_ScreenHeight"
+			],
+			[
+				"NumP",
+				"NumPut()"
+			],
+			[
+				"struct",
+				"outStruct"
+			],
+			[
+				"str",
+				"structSizing"
+			],
+			[
+				"Var",
+				"VarSetCapacity"
+			],
+			[
+				"To",
+				"ToObject"
+			],
+			[
+				"T",
+				"ToObject"
+			],
+			[
+				"Screen",
+				"A_ScreenWidth"
+			],
+			[
+				"cache",
+				"this.cacheRect.struct"
+			],
+			[
+				"Max",
+				"MaxIndex()"
+			],
+			[
+				"IsOb",
+				"IsObject()"
+			],
+			[
+				"SplashTE",
+				"SplashTextOff"
+			],
+			[
+				"type",
+				"typeOfRect"
+			],
+			[
+				"DLL",
+				"WindowDllFuncs"
+			],
+			[
+				"SplashT",
+				"SplashTextOff"
+			],
+			[
+				"SplashTex",
+				"SplashTextOff"
+			],
+			[
+				"Dete",
+				"DetectHiddenWindows"
+			],
+			[
+				"Msg",
+				"MsgBox"
+			],
+			[
+				"winSt",
+				"winExStyleIn"
+			],
+			[
+				"hasM",
+				"hasMenuDefine"
+			],
+			[
+				"DllCa",
+				"DllCall()"
+			],
+			[
+				"WinEX",
+				"WinExist()"
+			],
+			[
+				"WinGet",
+				"WinGetTitle"
+			],
+			[
+				"WinE",
+				"WinExist()"
+			],
+			[
+				"winH",
+				"winHandle"
+			],
+			[
+				"MsgB",
+				"MsgBox"
+			],
+			[
+				"rectSt",
+				"rectStructInOut"
+			],
+			[
+				"rectStr",
+				"rectStructInOut"
+			],
+			[
+				"rectS",
+				"rectStructInOut"
+			],
+			[
+				"DllA",
+				"DllAdjustWindowRectEx"
+			],
+			[
+				"VarS",
+				"VarSetCapacity()"
+			],
+			[
+				"visibl",
+				"visibleCoords"
+			],
+			[
+				"visi",
+				"visibleCoords"
+			],
+			[
+				"tWin",
+				"tWinWidth"
+			],
+			[
+				"offS",
+				"offSetBottom"
+			],
+			[
+				"inOut",
+				"inOutCoords"
+			],
+			[
+				"inOu",
+				"inOutCoords"
+			],
+			[
+				"SetTit",
+				"SetTitleMatchMode"
+			],
+			[
+				"SetT",
+				"SetTitleMatchMode"
+			],
+			[
+				"tWinM",
+				"tWinMargin"
+			],
+			[
+				"pWin",
+				"pWinPosY"
+			],
+			[
+				"GetW",
+				"GetWinHandle"
+			],
+			[
+				"offSe",
+				"offSetBottom"
+			],
+			[
+				"off",
+				"offSetRight"
+			],
+			[
+				"tWinMarg",
+				"tWinMarginX"
+			],
+			[
+				"Msgb",
+				"MsgBox"
+			],
+			[
+				"new",
+				"newFrameRect"
+			],
+			[
+				"curren",
+				"currentBrowser"
+			],
+			[
+				"curr",
+				"currentBrowser"
+			],
+			[
+				"water",
+				"waterfox.exe"
+			],
+			[
+				"Rigid",
+				"Rigidbody"
+			],
+			[
+				"WinAC",
+				"WinActive()"
+			],
+			[
+				"Mouse",
+				"MouseClick"
+			],
+			[
+				"last",
+				"lastWindowClass"
+			],
+			[
+				"lastWin",
+				"lastWindowClass"
+			],
+			[
+				"lastWind",
+				"lastWindowClass"
+			],
+			[
+				"lastWindow",
+				"lastWindowHwnd"
+			],
+			[
+				"Shell",
+				"Shell_TrayWnd"
+			],
+			[
+				"WinACti",
+				"WinActivate"
+			],
+			[
+				"WinAc",
+				"WinActivate"
+			],
+			[
+				"activ",
+				"activeTitle"
+			],
+			[
+				"WinAct",
+				"WinActivate"
+			],
+			[
+				"MsgBO",
+				"MsgBox"
+			],
+			[
+				"WinGetCl",
+				"WinGetClass"
+			],
+			[
+				"WinA",
+				"WinActivate"
+			],
+			[
+				"Alwa",
+				"AlwaysOnTop"
+			],
+			[
+				"SetTitle",
+				"SetTitleMatchMode"
+			],
+			[
+				"NumpadDo",
+				"NumpadDown"
+			],
+			[
+				"WinGe",
+				"WinGet"
+			],
+			[
+				"NumpadPgD",
+				"NumpadPgdn"
+			],
+			[
+				"Move",
+				"newMoveImg"
+			],
+			[
+				"update",
+				"updateImgComputerMove"
+			],
+			[
+				"results",
+				"resultsList"
+			],
+			[
+				"SetTiel",
+				"SetTitleMatchMode"
+			],
+			[
+				"WinExi",
+				"WinExist()"
+			],
+			[
+				"ComO",
+				"ComObjCreate()"
+			],
+			[
+				"Splas",
+				"SplashTextOff"
+			],
+			[
+				"insert",
+				"insertContent"
+			],
+			[
+				"inser",
+				"insertStrLen"
+			],
+			[
+				"StrL",
+				"StrLen()"
+			],
+			[
+				"Single",
+				"SingleInstance"
+			],
+			[
+				"tWinAc",
+				"tWinActiveClass"
+			],
+			[
+				"WinExis",
+				"WinExist()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
+			"settings":
+			{
+				"buffer_size": 170,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Default"
+				],
+				[
+					"Packages/AutoHotkey/AutoHotkey.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoHotkey/AutoHotkey.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"PackageDev: Open Package"
+			],
+			[
+				"PackageDev: New",
+				"PackageDev: New Commands File (short)"
+			],
+			[
+				"col",
+				"UI: Select Color Scheme"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"Package Control: add",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"thee",
+				"UI: Select Theme"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins\t",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rmeo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Performance Header"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"crea",
+				"Package Control: Create Package File"
+			],
+			[
+				"creat",
+				"Package Control: Create Package File"
+			],
+			[
+				"extr",
+				"Extract Sublime Package: Extract all packages"
+			],
+			[
+				"packa",
+				"Package Control: Create Package File"
+			],
+			[
+				"extra",
+				"Extract Sublime Package: Extract all packages"
+			],
+			[
+				"package",
+				"Package Control: Create Package File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"extract",
+				"Extract Sublime Package: Extract all packages"
+			],
+			[
+				"view ",
+				"View Package File"
+			],
+			[
+				"permu",
+				"Permute Lines: Reverse"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+			"window.run_command(\"toggle_minimap\")",
+			"window.run_command(\"toggle_side_bar\")",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"import toggle_minimap.py",
+			"import toggle_minimap",
+			"ToggleMinimapCommand.run()",
+			"ToggleMinimapCommand()",
+			"window.run_command(\"toggle_minimap\")",
+			"run(\"toggle_minimap\")",
+			"toggle_minimap()",
+			"toggle_minimap",
+			"window.run_command(\"toggle_minimap\")",
+			"run_command(\"toggle_minimap\")",
+			"self.run_command(\"toggle_minimap\")",
+			"\"toggle_minimap\"",
+			"command: \"toggle_minimap\"",
+			"command: toggle_minimap",
+			"sublime.log_commands(True)",
+			"toggle_minimap",
+			"window.run_command(\"toggle_minimap\")",
+			"window.run_command(\"toggle_side_bar\")",
+			"toggle_minimap",
+			"run_command(\"toggle_minimap\")",
+			"self.window.run_command(\"toggle_minimap\")",
+			"toggle_minimap",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(False)",
+			"sublime.log_commands(True)",
+			"sublime.log_commands(true)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext"
+	],
+	"file_history":
+	[
+		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Commit Message.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Package Control/Main.sublime-menu",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Main.sublime-menu",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/SidebarAndMinimapToggle/Default.sublime-commands",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Tab Context.sublime-menu",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/SidebarAndMinimapToggle/Tab Context.sublime-menu",
+		"/C/Users/jonat/Portables/Sublime Text 4/dontlookatme/allAHKfunctions.json",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/sublime_jedi.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Themes/Mononono.tmTheme",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/SidebarAndMinimapToggle/ToggleSidebarAndMinimap.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Default.sublime-commands",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Projects/ToggleSidebarMinimapPlugin.sublime-project",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Themes/meowmeowmeow.tmTheme",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Installed Packages/AutoHotkey.sublime-package",
+		"/C/Users/jonat/Portables/Sublime Text 4/Packages/pyScriptsUser/toggle_minimap.py",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Projects/AHKandSyntax.sublime-project",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Python.sublime-package",
+		"/C/Users/jonat/Portables/Sublime Text 4/Packages/pyScriptsUser/toggle_sidebar.py",
+		"/C/Users/jonat/Portables/Sublime Text 4/Packages/pyScriptsUser/toggle_sidebar_and_minimap.py",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/pathlib/all/README.txt",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/pathlib/README.md",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/pyScripts/toggle_minimap.py",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/ToggleMinimapOnScroll.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ToggleMinimapOnScroll/ToggleMinimapOnScroll.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/YAML.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Language - English.sublime-package",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Text/Plain text.tmLanguage",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jonat/Fonts/Fira_Code_v6.2/README.txt",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default.sublime-package",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/C++.sublime-package",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Plain text.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/C#.sublime-package",
+		"/C/Users/jonat/Portables/Sublime Text 4/Packages/C#.sublime-package",
+		"/C/Users/jonat/Fonts/Fira_Code_v6.2/fira_code.css",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Sublime Text Settings.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/XML.sublime-settings",
+		"/C/Users/jonat/AHK Scripts/CustomCodeExample/AliasFunctionsWithClasses.ahk",
+		"/C/Users/jonat/Downloads/Unity - Manual Branching in shaders.md",
+		"/C/Users/jonat/OneDrive/Desktop/flaggedAHKFunctions.txt",
+		"/C/Users/jonat/AppData/Roaming/Mozilla/Firefox/Profiles/tqvsv31w.dev-edition-default/chrome/autohide_tabstoolbar.css",
+		"/C/Users/jonat/AppData/Roaming/Mozilla/Firefox/Profiles/tqvsv31w.dev-edition-default/chrome/autohide_sidebar.css",
+		"/C/Users/jonat/AppData/Roaming/Mozilla/Firefox/Profiles/tqvsv31w.dev-edition-default/chrome/userChrome.css",
+		"/C/Users/jonat/AHK Scripts/BetterClipboard/BetterClipboard.ahk",
+		"/C/Users/jonat/AHK Scripts/MoveMouseWithForward/MoveMouseWithForward.ahk",
+		"/C/Users/jonat/AHK Scripts/OnByDefault/SavedClips.ini",
+		"/C/Users/jonat/AHK Scripts/OnByDefault/OnByDefault.ahk",
+		"/C/Users/jonat/ComputeShaderTestA/Assets/TestScript.cs",
+		"/C/Program Files/Unity/Hub/Editor/2021.3.4f1/Editor/Data/Resources/ScriptTemplates/81-C# Script-NewBehaviourScript.cs.txt",
+		"/C/Users/jonat/Downloads/icoConvert.ahk",
+		"/C/Users/jonat/AHK Scripts/MoodTracker/Logs/22_06_08_16_07.ini",
+		"/C/Users/jonat/AHK Scripts/MoodTracker/Logs/22_04_24_01_41.ini",
+		"/C/Users/jonat/Python Shits/RockPaperScissors/results.txt",
+		"/C/Users/jonat/Python Shits/RockPaperScissors/RockPaperScissors.py",
+		"/C/Program Files/AutoHotkey/WindowSpy.ahk",
+		"/C/Users/jonat/AHK Scripts/ExternalTools/AutoHotkey_MSDN_Types-master/src/WinAPI_DataTypes.ah2",
+		"/C/Users/jonat/AHK Scripts/ExternalTools/AccEra/AccViewerRevB.ahk",
+		"/C/Users/jonat/AHK Scripts/MoodTracker/MoodTracker.ahk",
+		"/C/Users/jonat/AHK Scripts/ExternalTools/Inspect.exe_AHK-master/src/Inspect.ahk",
+		"/C/Users/jonat/AHK Scripts/ExternalTools/_Struct-master/_StructLocal.ahk",
+		"/C/Users/jonat/AHK Scripts/ExternalTools/_Struct-master/_Struct.ExampleLocal.ahk",
+		"/C/Users/jonat/AHK Scripts/ExternalTools/_Struct-master/_Struct.ahk",
+		"/C/Users/jonat/AHK Scripts/ExternalTools/_Struct-master/_Struct.Example.ahk",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/AttachToDesktop/AttachToDesktop.ahk",
+		"/C/Users/jonat/AHK Scripts/ExternalTools/AttachToDesktop/lib/AttachToDesktop.ahk",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/Excel95/Excel95.ahk",
+		"/C/Program Files/AutoHotkey/Lib/FTP.ahk",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/FTPClass/FTPClass.ahk",
+		"/C/Users/jonat/Downloads/FTP.ahk",
+		"/C/Users/jonat/Python Shits/Keras/ProjectA/AAA.py",
+		"/C/Users/jonat/Python Shits/Keras/ProjectA/pima-indians-diabetes.csv",
+		"/C/Users/jonat/AHK Scripts/COMDLLTest/ComHTMLShit.ahk",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/ActiveX/ActiveXA.ahk",
+		"/C/Users/jonat/AHK Scripts/CreateNewAHKScript/CreateNewAHKScript.ahk",
+		"/C/Users/jonat/Python Shits/ForTutorials/user/AAC.py",
+		"/C/Users/jonat/AppData/Local/Pineapple/Saved/Config/WindowsNoEditor/GameUserSettings.ini",
+		"/C/Users/jonat/AHK Scripts/NewTransToggleForOthers/AddToStartup.ahk",
+		"/C/Users/jonat/AHK Scripts/NewTransToggleForOthers/WindowTransparency.ahk",
+		"/C/Users/jonat/AHK Scripts/LiveDraw/LiveDrawHotkeys.ahk",
+		"/C/Python310/Lib/site-packages/README.txt",
+		"/C/Program Files/PuTTY/README.txt",
+		"/C/Users/jonat/AppData/Roaming/AHKCustom/SavedClips.ini",
+		"/C/Users/jonat/AHK Scripts/BetterClipboard/Clips.txt",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/InsertXNumberOfTimes[InputHook]/InsertXNumberOfTimes.ahk",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/dired.sublime-settings",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/CustomCascade/CustomCascade.ahk",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/SizeWindow/SizeWindow.ahk",
+		"/C/Users/jonat/AHK Scripts/OnByDefault/Settings.ini",
+		"/C/Users/jonat/AHK Scripts/NoteApp/NoteApp.ahk",
+		"/C/Users/jonat/AHK Scripts/MouseRipple/MouseRipple.ahk",
+		"/C/Users/jonat/AHK Scripts/DrugClassification/DrugClassification.ahk",
+		"/C/Users/jonat/AHK Scripts/ExternalTools/Inspect.exe_AHK-master/src/UIA.ahk",
+		"/C/Users/jonat/AHK Scripts/NoteApp/NoteAppIncludeInit.ahk",
+		"/C/Users/jonat/AHK Scripts/NoteApp/NoteAppIncludeRuntime.ahk",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/AHKV1/GenericHeaderAHK.sublime-snippet",
+		"/C/Users/jonat/AHK Scripts/Directory/New Scriptzzz.ahk",
+		"/C/Users/jonat/AHK Scripts/Tutorials/Gdip/TestScripts/TestingGdip.ahk",
+		"/C/Program Files/AutoHotkey/Lib/Gdip_All.ahk",
+		"/C/Users/jonat/AHK Scripts/Tutorials/Gdip/Gdip-master/Gdip.Tutorial.1-Draw.Shapes.ahk",
+		"/C/Users/jonat/AHK Scripts/Tutorials/Gdip/Gdip-master/Gdip.Tutorial.4-Draw.Circles.ahk",
+		"/C/Users/jonat/AHK Scripts/Tutorials/Gdip/Gdip-master/Gdip.Tutorial.2-Draw.Outlined.Shapes.ahk",
+		"/C/Users/jonat/AHK Scripts/Tutorials/Gdip/Gdip-master/Gdip.Tutorial.7-Draw.draggable.rounded.rectangle.ahk",
+		"/C/Users/jonat/AHK Scripts/Tutorials/Gdip/Gdip-master/Gdip.Tutorial.3-Create.Gui.From.Image.ahk",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/AHKV1/AutoHotkey.sublime-syntax",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/EditControlMessages.ahk",
+		"/C/Users/jonat/AHK Scripts/TriggerCMD/ToggleIE.ahk",
+		"/C/Users/jonat/AHK Scripts/Tutorials/Gdip/Gdip-master/Holding/Gdip.ahk",
+		"/C/Users/jonat/AHK Scripts/TriggerCMD/CascadeWindows.ahk",
+		"/C/Users/jonat/WinAPISamples/Windows-classic-samples-main/Samples/Win7Samples/winui/shell/appshellintegration/PlaylistPropertyHandler/readme.txt",
+		"/C/Users/jonat/AHK Scripts/FadeInFadeOut/TestingFade.ahk",
+		"/C/Users/jonat/AHK Scripts/FadeInFadeOut/FadeInFadeOutModular.ahk",
+		"/C/Program Files/AutoHotkey/Lib/JLK.ahk",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/NumpadHotkeysHotwin.ahk",
+		"/C/Users/jonat/AHK Scripts/COMDLLTest/RegisterCallbackA.ahk",
+		"/C/Users/jonat/AHK Scripts/COMDLLTest/EnumeratedWindows.txt",
+		"/C/Users/jonat/AHK Scripts/COMDDLTest/GenCOMA.ahk",
+		"/C/Users/jonat/AHK Scripts/AccTest/ScrapeFunctionTableWithAcc.ahk",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/Loops/ahkKeyWordsFunctions.txt",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/Loops/plainAhkKeyWordsFunctions.txt",
+		"/C/Users/jonat/AHK Scripts/TestingEnvGen/Loops/ParsingA.ahk",
+		"/C/Users/jonat/AHK Scripts/IDon'tWantToLoseThese/MyOwn/allAHKfunctionsAndKeys.sublime-completions",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Faded.tmTheme",
+		"/C/Users/jonat/AHK Scripts/ComponentsToAdd/ActivateAllieWindows.ahk",
+		"/C/Users/jonat/AHK Scripts/MessagesTests/msgReceiveTest.ahk"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Terminus":
+	{
+		"height": 154.0
+	},
+	"output.exec":
+	{
+		"height": 209.0
+	},
+	"output.find_results":
+	{
+		"height": 209.0
+	},
+	"output.markdown":
+	{
+		"height": 0.0
+	},
+	"output.package_dev":
+	{
+		"height": 97.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "ExtendedSidebarContext.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"#F4"
+			]
+		],
+		"width": 511.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
