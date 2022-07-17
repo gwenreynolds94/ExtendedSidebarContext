@@ -3,7 +3,7 @@
 		"caption": "-", "id": "end"
 	},
 	{
-		"caption": "Placeholder",
+		"caption": "Perform Folder Action",
 		"command": "extended_sidebar_context"
 	}
 ]

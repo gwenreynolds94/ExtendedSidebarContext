@@ -42,5 +42,9 @@
 	{
 		"caption": "Add Parent Folder",
 		"command": ""
+	},
+	{
+		"caption": "Debug Plugin",
+		"command": "extended_sidebar_context"
 	}
 ]
