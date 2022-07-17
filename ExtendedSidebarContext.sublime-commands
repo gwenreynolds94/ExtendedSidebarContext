@@ -32,15 +32,15 @@
 		"command": ""
 	},
 	{
-		"caption": "New Menu (Sidebar)",
+		"caption": "New Menu (Side Bar)",
 		"command": ""
 	},
 	{
-		"caption": "New Menu (Tab Sidebar Context)",
+		"caption": "New Menu (Tab Side Bar Context)",
 		"command": ""
 	},
 	{
-		"caption": "New __project",
+		"caption": "Add Parent Folder",
 		"command": ""
 	}
 ]

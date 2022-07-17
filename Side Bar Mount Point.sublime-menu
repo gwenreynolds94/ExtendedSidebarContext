@@ -1,0 +1,9 @@
+[
+	{
+		"caption": "-", "id": "end"
+	},
+	{
+		"caption": "Placeholder",
+		"command": "extended_sidebar_context"
+	}
+]

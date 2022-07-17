@@ -38,45 +38,5 @@
 	//
 	// Create "/Tab Sidebar Context.sublime-menu"
 	//
-	"new_menu_tab_sidebar_context": "true",
-	
-	
-	//
-	// Create "/__{new_project_suffix}/
-	//								  /[working_dir].sublime-project
-	//								  /[working_dir].sublime-workspace"
-	//
-	// The purpose of this is to save a new project
-	//   into a new directory within the plugin heirarchy
-	//   and hide it from the file browser in the sidebar.
-	//
-	// Consequently, you will have to add "__*" to 
-	//   "folder_exclude_patterns": [] in your settings.
-	//
-	// Copy the default setting to your user settings
-	//   and append "__*" to the existing list. APPEND!
-	//
-	// This will hide any folder that starts with "__" but
-	// 	 you can set the "new_project_prefix" setting below
-	//   if there's a conflict
-	//
-	"new_project_init": "true",
-	
-	
-	//
-	// Change the prefix "__" of the generated
-	// __{new_project_suffix} directory
-	//
-	// Your options are:
-	// "double_underscore"	[__project]
-	// "hide" 				[_hide_project]
-	// "do_not_show" 		[_dns_project]
-	// 
-	"new_project_prefix": "double_underscore",
-	
-	
-	//
-	// Change the suffix of the generated __{new_project_suffix}] directory
-	//
-	"new_project_suffix": "project"
+	"new_menu_tab_sidebar_context": "true"
 }
