@@ -1,0 +1,10 @@
+[
+	{
+		"caption": "-", "id": "post-native"
+	},
+	{
+		"caption": "Add Parent Folder",
+		"command": "add_folder_from_open_file",
+		"args": {"group": -1, "index": -1}
+	}
+]
