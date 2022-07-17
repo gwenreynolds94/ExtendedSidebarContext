@@ -4,6 +4,10 @@
 		{
 			"path": "C:\\Users\\jonat\\Portables\\Sublime Text 4\\Data\\Packages\\ExtendedSidebarContext",
 		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\jonat\\Portables\\Sublime Text 4\\Data\\Packages\\ExtendedSidebarContext"
+		},
 	],
 	"build_systems":
 	[

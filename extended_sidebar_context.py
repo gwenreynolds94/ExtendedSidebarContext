@@ -3,14 +3,14 @@ import sublime_plugin
 from pathlib import Path
 
 
-DEFAULT_PROJECT_FILE_TEXT = """{
-	"folders":
-	[
-		{
-			"path": "."
-		}
-	]
-}"""
+# DEFAULT_PROJECT_FILE_TEXT = """{
+# 	"folders":
+# 	[
+# 		{
+# 			"path": "."
+# 		}
+# 	]
+# }"""
 
 
 
@@ -93,15 +93,25 @@ class FilesAndFolders:
 		if should_return:
 			return self.all_file_paths
 
-	def addParentFolder(self, file_name = False):
+	def addParentFolder(self, file_to_get = None):
 		if not self.parent or not self.window:
 			self.getParentFolder()
 			self.window = sublime.active_window()
-		if project_added:
-			sublime.status_message("Cannot add folder if project settings already intialized")
-			return None
-		else:
-			self.open_folders = self.window.folders()
+		for k in self.everything:
+			if k == "file":
+				self.child = self.everything[k]
+			if k == "file_path":
+				self.fpath = self.everything[k]
+		if self.child and self.fpath:
+			config = {'follow_symlinks': True, 'path': self.fpath}
+			data = self.window.project_data()
+			if not data:
+				data = {'folders': [config]}
+				self.window.set_project_data(data)
+			else:
+				data['folders'].append(config)
+				self.window.set_project_data(data)
+			
 		
 		
 		
@@ -136,10 +146,10 @@ class ExtendedSidebarContextCommand(sublime_plugin.WindowCommand):
 
 class AddFolderFromOpenFileCommand(sublime_plugin.WindowCommand):
 	def run(self, group, index):
-		f_and_f = FilesAndFolders()
-		p_dir = f_and_f.getParentFolder(True)
-		a_f_f = f_and_f.getEverything(True)
-		f_and_f.printEverything()
+		folderContainer = FilesAndFolders()
+		tPar = folderContainer.getParentFolder(True)
+		folderContainer.getEverything()
+		folderContainer.addParentFolder()
 
 
 		
