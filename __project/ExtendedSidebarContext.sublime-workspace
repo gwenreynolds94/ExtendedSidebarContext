@@ -519,46 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Tab Sidebar Context.sublime-menu",
-			"settings":
-			{
-				"buffer_size": 167,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Side Bar Mount Point.sublime-menu",
-			"settings":
-			{
-				"buffer_size": 124,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
-			"redo_stack":
-			[
-				[
-					9,
-					1,
-					"insert",
-					{
-						"characters": "asdasdasdawqd"
-					},
-					"DQAAABkBAAAAAAAAGQEAAAAAAAABAAAAZBgBAAAAAAAAGAEAAAAAAAABAAAAcRcBAAAAAAAAFwEAAAAAAAABAAAAdxYBAAAAAAAAFgEAAAAAAAABAAAAYRUBAAAAAAAAFQEAAAAAAAABAAAAZBQBAAAAAAAAFAEAAAAAAAABAAAAcxMBAAAAAAAAEwEAAAAAAAABAAAAYRIBAAAAAAAAEgEAAAAAAAABAAAAZBEBAAAAAAAAEQEAAAAAAAABAAAAcxABAAAAAAAAEAEAAAAAAAABAAAAYQ8BAAAAAAAADwEAAAAAAAABAAAAZA4BAAAAAAAADgEAAAAAAAABAAAAcw0BAAAAAAAADQEAAAAAAAABAAAAYQ",
-					"AQAAAAAAAAABAAAAGgEAAAAAAAAaAQAAAAAAAAAAAAAAAPC/"
-				]
-			],
-			"settings":
-			{
-				"buffer_size": 1680,
-				"line_ending": "Windows"
-			},
-			"undo_stack":
-			[
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -607,6 +567,26 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"create",
+				"Package Control: Create Package File"
+			],
+			[
+				"pakage",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"preferene",
+				"Preferences: Package Control Settings"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"crea",
+				"Package Control: Create Package File"
+			],
 			[
 				"prefer",
 				"Preferences: Settings"
@@ -708,10 +688,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
-				"Package Control: Enable Package"
-			],
-			[
 				"Package Control: remo",
 				"Package Control: Remove Package"
 			],
@@ -756,10 +732,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"crea",
-				"Package Control: Create Package File"
-			],
-			[
 				"creat",
 				"Package Control: Create Package File"
 			],
@@ -800,7 +772,7 @@
 	},
 	"console":
 	{
-		"height": 666.0,
+		"height": 240.0,
 		"history":
 		[
 			"window.run_command(\"boop_de_boop_command\")",
@@ -866,16 +838,20 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext"
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/__project"
 	],
 	"file_history":
 	[
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/AutoBackups (Windows).sublime-settings",
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/ExtendedSidebarContext.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Package Control.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/__project/ExtendedSidebarContext.sublime-project",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Tab Sidebar Context.sublime-menu",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Side Bar Mount Point.sublime-menu",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/__project/__init__.py",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/AutoBackups (Windows).sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/ExtendedSidebarContext.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Preferences (Windows).sublime-settings",
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Distraction Free.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Preferences (Windows).sublime-settings",
@@ -906,7 +882,6 @@
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/README.md",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Anaconda/Anaconda.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Anaconda/README.md",
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/__project/ExtendedSidebarContext.sublime-project",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Side Bar Mount Point.sublime-menu",
 		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Commit Message.sublime-settings",
@@ -995,20 +970,17 @@
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/dired.sublime-settings",
 		"/C/Users/jonat/AHK Scripts/TestingEnvGen/CustomCascade/CustomCascade.ahk",
 		"/C/Users/jonat/AHK Scripts/TestingEnvGen/SizeWindow/SizeWindow.ahk",
-		"/C/Users/jonat/AHK Scripts/OnByDefault/Settings.ini",
-		"/C/Users/jonat/AHK Scripts/NoteApp/NoteApp.ahk",
-		"/C/Users/jonat/AHK Scripts/MouseRipple/MouseRipple.ahk"
+		"/C/Users/jonat/AHK Scripts/OnByDefault/Settings.ini"
 	],
 	"find":
 	{
-		"height": 45.0
+		"height": 22.0
 	},
 	"find_in_files":
 	{
 		"height": 619.0,
 		"where_history":
 		[
-			"C:\\Users\\jonat\\Portables\\Sublime Text 4"
 		]
 	},
 	"find_state":
@@ -1016,77 +988,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"settings",
-			"font",
-			"dont",
-			"Fira",
-			"Fira Code",
-			"Hack",
-			"/?(^\\s$)(?((\\s)(?<!.\\n))((\\s)(?!\\n^.)))",
-			"/?(^\\s$)((\\s)(?<!.\\n))",
-			"($^\\n{2,}(?=\\n{2}))",
-			"(def.*(\\s*\\S*)*(^$))",
-			"($^\\n{2,}(?=\\n{2}))",
-			"$^\\n{2,}(?<!$)",
-			"$^\\n{2}(?<!$)",
-			"(?<=($))^\\n{1,2}",
-			"(?<=($))^\\n{2}",
-			"\\n{2}",
-			"\\n",
-			"fpath",
-			"printEverything",
-			"#",
-			"f_and_f",
-			"p_dir",
-			"+ \"-\"",
-			"len(k) + \"-\")",
-			"all_files",
-			"all_file_paths",
-			"None",
-			"all_files",
-			"getAllFiles",
-			"close_selected",
-			"close",
-			"window.",
-			"subl",
-			"DEFAULT_PROJECT_FILE_TEXT",
-			"lo",
-			"location",
-			"loca",
-			"locaiton",
-			" *",
-			"ProjectAndWorkspaceManagementNewProjectCommand",
-			"update",
-			"lastChangeCount",
-			"lastHoverZone",
-			"lastPoint",
-			"lastView",
-			"windows()",
-			"StorageBitch",
-			"OpenWorkspaceIndexInputHandler",
-			"AutoSaveEasyWorkspace",
-			"ReopenLastEasyWorkspaceCommand",
-			"ShowOpenedEasyWorkspaceCommand",
-			"DeleteEasyWorkspaceCommand",
-			"promptUserForFilename",
-			"OpenEasyWorkspaceCommand",
-			"SaveAsEasyWorkspaceCommand",
-			"EasyWorkspaceCommand",
-			"SaveEasyWorkspaceCommand",
-			"ProjectAndWorkspaceManagementNewProjectCommand",
-			"NewProjectPathInputHandler",
-			"self",
-			"output",
-			"pName",
-			"////////",
-			"//////",
-			"////////",
-			"change",
-			" \t",
-			"[new_project_suffix]",
-			"__project",
-			".sublime-menu",
-			" ..."
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1108,132 +1009,12 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Tab Sidebar Context.sublime-menu",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 167,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 14,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"syntax": "Packages/PackageDev/Package/Sublime Text Menu/Sublime Text Menu.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Side Bar Mount Point.sublime-menu",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 124,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 0,
-								"count": 9,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"syntax": "Packages/PackageDev/Package/Sublime Text Menu/Sublime Text Menu.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1680,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								476,
-								476
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "python"
-							},
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 33.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -1298,7 +1079,7 @@
 	"project": "ExtendedSidebarContext.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 40.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1335,15 +1116,6 @@
 	"selected_group": 0,
 	"settings":
 	{
-		"last_automatic_layout":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		]
 	},
 	"show_minimap": false,
 	"show_open_files": true,

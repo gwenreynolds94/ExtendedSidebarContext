@@ -1,9 +1,0 @@
-[
-	{
-		"caption": "-", "id": "end"
-	},
-	{
-		"caption": "Perform Folder Action",
-		"command": "extended_sidebar_context"
-	}
-]

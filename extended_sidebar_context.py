@@ -5,7 +5,7 @@ from pathlib import Path
 
 
 class FilesAndFolders:
-		
+
 	def getEverything(self, should_return = False):
 		self.window = sublime.active_window()
 		self.everything = self.window.extract_variables()
@@ -36,28 +36,3 @@ class AddFolderFromOpenFileCommand(sublime_plugin.WindowCommand):
 		folderContainer = FilesAndFolders()
 		folderContainer.getEverything()
 		folderContainer.addParentFolder()
-
-
-
-class ExtendedSidebarContextCommand(sublime_plugin.WindowCommand):
-	def run(self, **args):
-		return
-
-
-
-# class SyncSettingsCache(sublime_plugin.EventListener):
-#	def on_init(self, views):
-#		self.cache = InstanceCache()
-#		
-#	 def on_hover(self, View, Point, HoverZone):
-#		 self.cache.updateOnHover(View, Point, HoverZone)
-#		 out = self.cache.combine()
-#		 print(self.cache.proj_file)
-#		 print(self.cache.work_file)
-#		 vList = sublime.active_window().extract_variables()
-#		 xList = sublime.expand_variables("${file_path}", vList)
-#		 print(sublime.active_window().folders())
-#		
-#	 def on_window_command(self, window, command_name, args):
-#	 	return
-		

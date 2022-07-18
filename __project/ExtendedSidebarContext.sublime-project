@@ -2,20 +2,11 @@
 	"folders":
 	[
 		{
-			"path": "C:\\Users\\jonat\\Portables\\Sublime Text 4\\Data\\Packages\\ExtendedSidebarContext",
+			"path": "C:\\Users\\jonat\\Portables\\Sublime Text 4\\Data\\Packages\\ExtendedSidebarContext"
 		},
 		{
 			"follow_symlinks": true,
 			"path": "C:\\Users\\jonat\\Portables\\Sublime Text 4\\Data\\Packages\\ExtendedSidebarContext"
-		},
-	],
-	"build_systems":
-	[
-		{
-			"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
-			"name": "Anaconda Python Builder",
-			"selector": "source.python",
-			"shell_cmd": "\"python\" -u \"$file\"",
 		}
-	],
+	]
 }
