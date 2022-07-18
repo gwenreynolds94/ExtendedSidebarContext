@@ -12,7 +12,7 @@ class FilesAndFolders:
 		if should_return:
 			return self.everything
 
-	def addParentFolder(self, file_to_get = None):
+	def addParentFolder(self):
 		self.window = sublime.active_window()
 		self.getEverything()
 		for k in self.everything:
@@ -31,13 +31,6 @@ class FilesAndFolders:
 				self.window.set_project_data(data)
 
 
-
-class ExtendedSidebarContextCommand(sublime_plugin.WindowCommand):
-	def run(self, **args):
-		return
-
-
-
 class AddFolderFromOpenFileCommand(sublime_plugin.WindowCommand):
 	def run(self, group, index):
 		folderContainer = FilesAndFolders()
@@ -45,7 +38,13 @@ class AddFolderFromOpenFileCommand(sublime_plugin.WindowCommand):
 		folderContainer.addParentFolder()
 
 
-		
+
+class ExtendedSidebarContextCommand(sublime_plugin.WindowCommand):
+	def run(self, **args):
+		return
+
+
+
 # class SyncSettingsCache(sublime_plugin.EventListener):
 #	def on_init(self, views):
 #		self.cache = InstanceCache()
