@@ -519,6 +519,25 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAACQBgAAaW1wb3J0IHN1YmxpbWUKaW1wb3J0IHN1YmxpbWVfcGx1Z2luCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKCgpjbGFzcyBGaWxlc0FuZEZvbGRlcnM6CgkJCglkZWYgZ2V0RXZlcnl0aGluZyhzZWxmLCBzaG91bGRfcmV0dXJuID0gRmFsc2UpOgoJCXNlbGYud2luZG93ID0gc3VibGltZS5hY3RpdmVfd2luZG93KCkKCQlzZWxmLmV2ZXJ5dGhpbmcgPSBzZWxmLndpbmRvdy5leHRyYWN0X3ZhcmlhYmxlcygpCgkJaWYgc2hvdWxkX3JldHVybjoKCQkJcmV0dXJuIHNlbGYuZXZlcnl0aGluZwoKCWRlZiBhZGRQYXJlbnRGb2xkZXIoc2VsZik6CgkJc2VsZi53aW5kb3cgPSBzdWJsaW1lLmFjdGl2ZV93aW5kb3coKQoJCXNlbGYuZ2V0RXZlcnl0aGluZygpCgkJZm9yIGsgaW4gc2VsZi5ldmVyeXRoaW5nOgoJCQlpZiBrID09ICJmaWxlIjoKCQkJCXNlbGYuY2hpbGQgPSBzZWxmLmV2ZXJ5dGhpbmdba10KCQkJaWYgayA9PSAiZmlsZV9wYXRoIjoKCQkJCXNlbGYucGFyZW50ID0gc2VsZi5ldmVyeXRoaW5nW2tdCgkJaWYgc2VsZi5jaGlsZCBhbmQgc2VsZi5wYXJlbnQ6CgkJCWNvbmZpZyA9IHsnZm9sbG93X3N5bWxpbmtzJzogVHJ1ZSwgJ3BhdGgnOiBzZWxmLnBhcmVudH0KCQkJZGF0YSA9IHNlbGYud2luZG93LnByb2plY3RfZGF0YSgpCgkJCWlmIG5vdCBkYXRhOgoJCQkJZGF0YSA9IHsnZm9sZGVycyc6IFtjb25maWddfQoJCQkJc2VsZi53aW5kb3cuc2V0X3Byb2plY3RfZGF0YShkYXRhKQoJCQllbHNlOgoJCQkJZGF0YVsnZm9sZGVycyddLmFwcGVuZChjb25maWcpCgkJCQlzZWxmLndpbmRvdy5zZXRfcHJvamVjdF9kYXRhKGRhdGEpCgoKY2xhc3MgQWRkRm9sZGVyRnJvbU9wZW5GaWxlQ29tbWFuZChzdWJsaW1lX3BsdWdpbi5XaW5kb3dDb21tYW5kKToKCWRlZiBydW4oc2VsZiwgZ3JvdXAsIGluZGV4KToKCQlmb2xkZXJDb250YWluZXIgPSBGaWxlc0FuZEZvbGRlcnMoKQoJCWZvbGRlckNvbnRhaW5lci5nZXRFdmVyeXRoaW5nKCkKCQlmb2xkZXJDb250YWluZXIuYWRkUGFyZW50Rm9sZGVyKCkKCgoKY2xhc3MgRXh0ZW5kZWRTaWRlYmFyQ29udGV4dENvbW1hbmQoc3VibGltZV9wbHVnaW4uV2luZG93Q29tbWFuZCk6CglkZWYgcnVuKHNlbGYsICoqYXJncyk6CgkJcmV0dXJuCgoKCiMgY2xhc3MgU3luY1NldHRpbmdzQ2FjaGUoc3VibGltZV9wbHVnaW4uRXZlbnRMaXN0ZW5lcik6CiMJZGVmIG9uX2luaXQoc2VsZiwgdmlld3MpOgojCQlzZWxmLmNhY2hlID0gSW5zdGFuY2VDYWNoZSgpCiMJCQojCSBkZWYgb25faG92ZXIoc2VsZiwgVmlldywgUG9pbnQsIEhvdmVyWm9uZSk6CiMJCSBzZWxmLmNhY2hlLnVwZGF0ZU9uSG92ZXIoVmlldywgUG9pbnQsIEhvdmVyWm9uZSkKIwkJIG91dCA9IHNlbGYuY2FjaGUuY29tYmluZSgpCiMJCSBwcmludChzZWxmLmNhY2hlLnByb2pfZmlsZSkKIwkJIHByaW50KHNlbGYuY2FjaGUud29ya19maWxlKQojCQkgdkxpc3QgPSBzdWJsaW1lLmFjdGl2ZV93aW5kb3coKS5leHRyYWN0X3ZhcmlhYmxlcygpCiMJCSB4TGlzdCA9IHN1YmxpbWUuZXhwYW5kX3ZhcmlhYmxlcygiJHtmaWxlX3BhdGh9Iiwgdkxpc3QpCiMJCSBwcmludChzdWJsaW1lLmFjdGl2ZV93aW5kb3coKS5mb2xkZXJzKCkpCiMJCQojCSBkZWYgb25fd2luZG93X2NvbW1hbmQoc2VsZiwgd2luZG93LCBjb21tYW5kX25hbWUsIGFyZ3MpOgojCSAJcmV0dXJuCgkJAAAAAAAAAAD5AwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -568,24 +587,8 @@
 		"selected_items":
 		[
 			[
-				"create",
-				"Package Control: Create Package File"
-			],
-			[
-				"pakage",
-				"Preferences: Package Control Settings"
-			],
-			[
-				"preferene",
-				"Preferences: Package Control Settings"
-			],
-			[
-				"Package Control: ",
-				"Package Control: Enable Package"
-			],
-			[
-				"crea",
-				"Package Control: Create Package File"
+				"in",
+				"Package Control: Install Package"
 			],
 			[
 				"prefer",
@@ -644,10 +647,6 @@
 				"Package Control: Remove Package"
 			],
 			[
-				"in",
-				"Package Control: Install Package"
-			],
-			[
 				"colo",
 				"UI: Select Color Scheme"
 			],
@@ -686,6 +685,10 @@
 			[
 				"Package Control: ins",
 				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
 			],
 			[
 				"Package Control: remo",
@@ -732,6 +735,10 @@
 				"Package Control: Install Package"
 			],
 			[
+				"crea",
+				"Package Control: Create Package File"
+			],
+			[
 				"creat",
 				"Package Control: Create Package File"
 			],
@@ -772,7 +779,7 @@
 	},
 	"console":
 	{
-		"height": 240.0,
+		"height": 666.0,
 		"history":
 		[
 			"window.run_command(\"boop_de_boop_command\")",
@@ -843,15 +850,14 @@
 	],
 	"file_history":
 	[
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Package Control.sublime-settings",
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/__project/ExtendedSidebarContext.sublime-project",
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Tab Sidebar Context.sublime-menu",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Side Bar Mount Point.sublime-menu",
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/__project/__init__.py",
+		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Commit Message.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/AutoBackups (Windows).sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/ExtendedSidebarContext.sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Tab Sidebar Context.sublime-menu",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Preferences (Windows).sublime-settings",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Preferences.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Distraction Free.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/Preferences (Windows).sublime-settings",
@@ -882,10 +888,9 @@
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/README.md",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Anaconda/Anaconda.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Anaconda/README.md",
+		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/__project/ExtendedSidebarContext.sublime-project",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Side Bar Mount Point.sublime-menu",
 		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Default (Windows).sublime-keymap",
-		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Commit Message.sublime-settings",
-		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Preferences.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Package Control/Main.sublime-menu",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/Default/Main.sublime-menu",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/SidebarAndMinimapToggle/Default.sublime-commands",
@@ -970,7 +975,9 @@
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/User/dired.sublime-settings",
 		"/C/Users/jonat/AHK Scripts/TestingEnvGen/CustomCascade/CustomCascade.ahk",
 		"/C/Users/jonat/AHK Scripts/TestingEnvGen/SizeWindow/SizeWindow.ahk",
-		"/C/Users/jonat/AHK Scripts/OnByDefault/Settings.ini"
+		"/C/Users/jonat/AHK Scripts/OnByDefault/Settings.ini",
+		"/C/Users/jonat/AHK Scripts/NoteApp/NoteApp.ahk",
+		"/C/Users/jonat/AHK Scripts/MouseRipple/MouseRipple.ahk"
 	],
 	"find":
 	{
@@ -981,6 +988,7 @@
 		"height": 619.0,
 		"where_history":
 		[
+			"C:\\Users\\jonat\\Portables\\Sublime Text 4"
 		]
 	},
 	"find_state":
@@ -988,6 +996,77 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"settings",
+			"font",
+			"dont",
+			"Fira",
+			"Fira Code",
+			"Hack",
+			"/?(^\\s$)(?((\\s)(?<!.\\n))((\\s)(?!\\n^.)))",
+			"/?(^\\s$)((\\s)(?<!.\\n))",
+			"($^\\n{2,}(?=\\n{2}))",
+			"(def.*(\\s*\\S*)*(^$))",
+			"($^\\n{2,}(?=\\n{2}))",
+			"$^\\n{2,}(?<!$)",
+			"$^\\n{2}(?<!$)",
+			"(?<=($))^\\n{1,2}",
+			"(?<=($))^\\n{2}",
+			"\\n{2}",
+			"\\n",
+			"fpath",
+			"printEverything",
+			"#",
+			"f_and_f",
+			"p_dir",
+			"+ \"-\"",
+			"len(k) + \"-\")",
+			"all_files",
+			"all_file_paths",
+			"None",
+			"all_files",
+			"getAllFiles",
+			"close_selected",
+			"close",
+			"window.",
+			"subl",
+			"DEFAULT_PROJECT_FILE_TEXT",
+			"lo",
+			"location",
+			"loca",
+			"locaiton",
+			" *",
+			"ProjectAndWorkspaceManagementNewProjectCommand",
+			"update",
+			"lastChangeCount",
+			"lastHoverZone",
+			"lastPoint",
+			"lastView",
+			"windows()",
+			"StorageBitch",
+			"OpenWorkspaceIndexInputHandler",
+			"AutoSaveEasyWorkspace",
+			"ReopenLastEasyWorkspaceCommand",
+			"ShowOpenedEasyWorkspaceCommand",
+			"DeleteEasyWorkspaceCommand",
+			"promptUserForFilename",
+			"OpenEasyWorkspaceCommand",
+			"SaveAsEasyWorkspaceCommand",
+			"EasyWorkspaceCommand",
+			"SaveEasyWorkspaceCommand",
+			"ProjectAndWorkspaceManagementNewProjectCommand",
+			"NewProjectPathInputHandler",
+			"self",
+			"output",
+			"pName",
+			"////////",
+			"//////",
+			"////////",
+			"change",
+			" \t",
+			"[new_project_suffix]",
+			"__project",
+			".sublime-menu",
+			" ..."
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1009,6 +1088,46 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": -1,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1116,6 +1235,15 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
 	},
 	"show_minimap": false,
 	"show_open_files": true,
