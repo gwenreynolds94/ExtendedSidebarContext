@@ -1,7 +1,5 @@
 import sublime
 import sublime_plugin
-from pathlib import Path
-
 
 
 class FilesAndFolders:
