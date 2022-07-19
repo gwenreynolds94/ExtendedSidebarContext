@@ -523,7 +523,8 @@
 			"file": "/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/extended_sidebar_context.py",
 			"settings":
 			{
-				"buffer_size": 1017,
+				"buffer_size": 991,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			},
 			"undo_stack":
@@ -533,8 +534,52 @@
 					1,
 					"revert",
 					null,
-					"AgAAAAAAAAAAAAAAAAAAAAAAAACQBgAAaW1wb3J0IHN1YmxpbWUKaW1wb3J0IHN1YmxpbWVfcGx1Z2luCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKCgpjbGFzcyBGaWxlc0FuZEZvbGRlcnM6CgkJCglkZWYgZ2V0RXZlcnl0aGluZyhzZWxmLCBzaG91bGRfcmV0dXJuID0gRmFsc2UpOgoJCXNlbGYud2luZG93ID0gc3VibGltZS5hY3RpdmVfd2luZG93KCkKCQlzZWxmLmV2ZXJ5dGhpbmcgPSBzZWxmLndpbmRvdy5leHRyYWN0X3ZhcmlhYmxlcygpCgkJaWYgc2hvdWxkX3JldHVybjoKCQkJcmV0dXJuIHNlbGYuZXZlcnl0aGluZwoKCWRlZiBhZGRQYXJlbnRGb2xkZXIoc2VsZik6CgkJc2VsZi53aW5kb3cgPSBzdWJsaW1lLmFjdGl2ZV93aW5kb3coKQoJCXNlbGYuZ2V0RXZlcnl0aGluZygpCgkJZm9yIGsgaW4gc2VsZi5ldmVyeXRoaW5nOgoJCQlpZiBrID09ICJmaWxlIjoKCQkJCXNlbGYuY2hpbGQgPSBzZWxmLmV2ZXJ5dGhpbmdba10KCQkJaWYgayA9PSAiZmlsZV9wYXRoIjoKCQkJCXNlbGYucGFyZW50ID0gc2VsZi5ldmVyeXRoaW5nW2tdCgkJaWYgc2VsZi5jaGlsZCBhbmQgc2VsZi5wYXJlbnQ6CgkJCWNvbmZpZyA9IHsnZm9sbG93X3N5bWxpbmtzJzogVHJ1ZSwgJ3BhdGgnOiBzZWxmLnBhcmVudH0KCQkJZGF0YSA9IHNlbGYud2luZG93LnByb2plY3RfZGF0YSgpCgkJCWlmIG5vdCBkYXRhOgoJCQkJZGF0YSA9IHsnZm9sZGVycyc6IFtjb25maWddfQoJCQkJc2VsZi53aW5kb3cuc2V0X3Byb2plY3RfZGF0YShkYXRhKQoJCQllbHNlOgoJCQkJZGF0YVsnZm9sZGVycyddLmFwcGVuZChjb25maWcpCgkJCQlzZWxmLndpbmRvdy5zZXRfcHJvamVjdF9kYXRhKGRhdGEpCgoKY2xhc3MgQWRkRm9sZGVyRnJvbU9wZW5GaWxlQ29tbWFuZChzdWJsaW1lX3BsdWdpbi5XaW5kb3dDb21tYW5kKToKCWRlZiBydW4oc2VsZiwgZ3JvdXAsIGluZGV4KToKCQlmb2xkZXJDb250YWluZXIgPSBGaWxlc0FuZEZvbGRlcnMoKQoJCWZvbGRlckNvbnRhaW5lci5nZXRFdmVyeXRoaW5nKCkKCQlmb2xkZXJDb250YWluZXIuYWRkUGFyZW50Rm9sZGVyKCkKCgoKY2xhc3MgRXh0ZW5kZWRTaWRlYmFyQ29udGV4dENvbW1hbmQoc3VibGltZV9wbHVnaW4uV2luZG93Q29tbWFuZCk6CglkZWYgcnVuKHNlbGYsICoqYXJncyk6CgkJcmV0dXJuCgoKCiMgY2xhc3MgU3luY1NldHRpbmdzQ2FjaGUoc3VibGltZV9wbHVnaW4uRXZlbnRMaXN0ZW5lcik6CiMJZGVmIG9uX2luaXQoc2VsZiwgdmlld3MpOgojCQlzZWxmLmNhY2hlID0gSW5zdGFuY2VDYWNoZSgpCiMJCQojCSBkZWYgb25faG92ZXIoc2VsZiwgVmlldywgUG9pbnQsIEhvdmVyWm9uZSk6CiMJCSBzZWxmLmNhY2hlLnVwZGF0ZU9uSG92ZXIoVmlldywgUG9pbnQsIEhvdmVyWm9uZSkKIwkJIG91dCA9IHNlbGYuY2FjaGUuY29tYmluZSgpCiMJCSBwcmludChzZWxmLmNhY2hlLnByb2pfZmlsZSkKIwkJIHByaW50KHNlbGYuY2FjaGUud29ya19maWxlKQojCQkgdkxpc3QgPSBzdWJsaW1lLmFjdGl2ZV93aW5kb3coKS5leHRyYWN0X3ZhcmlhYmxlcygpCiMJCSB4TGlzdCA9IHN1YmxpbWUuZXhwYW5kX3ZhcmlhYmxlcygiJHtmaWxlX3BhdGh9Iiwgdkxpc3QpCiMJCSBwcmludChzdWJsaW1lLmFjdGl2ZV93aW5kb3coKS5mb2xkZXJzKCkpCiMJCQojCSBkZWYgb25fd2luZG93X2NvbW1hbmQoc2VsZiwgd2luZG93LCBjb21tYW5kX25hbWUsIGFyZ3MpOgojCSAJcmV0dXJuCgkJAAAAAAAAAAD5AwAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAPC/"
+					"AwAAAAAAAAAAAAAAAAAAAAAAAACQBgAAaW1wb3J0IHN1YmxpbWUKaW1wb3J0IHN1YmxpbWVfcGx1Z2luCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKCgpjbGFzcyBGaWxlc0FuZEZvbGRlcnM6CgkJCglkZWYgZ2V0RXZlcnl0aGluZyhzZWxmLCBzaG91bGRfcmV0dXJuID0gRmFsc2UpOgoJCXNlbGYud2luZG93ID0gc3VibGltZS5hY3RpdmVfd2luZG93KCkKCQlzZWxmLmV2ZXJ5dGhpbmcgPSBzZWxmLndpbmRvdy5leHRyYWN0X3ZhcmlhYmxlcygpCgkJaWYgc2hvdWxkX3JldHVybjoKCQkJcmV0dXJuIHNlbGYuZXZlcnl0aGluZwoKCWRlZiBhZGRQYXJlbnRGb2xkZXIoc2VsZik6CgkJc2VsZi53aW5kb3cgPSBzdWJsaW1lLmFjdGl2ZV93aW5kb3coKQoJCXNlbGYuZ2V0RXZlcnl0aGluZygpCgkJZm9yIGsgaW4gc2VsZi5ldmVyeXRoaW5nOgoJCQlpZiBrID09ICJmaWxlIjoKCQkJCXNlbGYuY2hpbGQgPSBzZWxmLmV2ZXJ5dGhpbmdba10KCQkJaWYgayA9PSAiZmlsZV9wYXRoIjoKCQkJCXNlbGYucGFyZW50ID0gc2VsZi5ldmVyeXRoaW5nW2tdCgkJaWYgc2VsZi5jaGlsZCBhbmQgc2VsZi5wYXJlbnQ6CgkJCWNvbmZpZyA9IHsnZm9sbG93X3N5bWxpbmtzJzogVHJ1ZSwgJ3BhdGgnOiBzZWxmLnBhcmVudH0KCQkJZGF0YSA9IHNlbGYud2luZG93LnByb2plY3RfZGF0YSgpCgkJCWlmIG5vdCBkYXRhOgoJCQkJZGF0YSA9IHsnZm9sZGVycyc6IFtjb25maWddfQoJCQkJc2VsZi53aW5kb3cuc2V0X3Byb2plY3RfZGF0YShkYXRhKQoJCQllbHNlOgoJCQkJZGF0YVsnZm9sZGVycyddLmFwcGVuZChjb25maWcpCgkJCQlzZWxmLndpbmRvdy5zZXRfcHJvamVjdF9kYXRhKGRhdGEpCgoKY2xhc3MgQWRkRm9sZGVyRnJvbU9wZW5GaWxlQ29tbWFuZChzdWJsaW1lX3BsdWdpbi5XaW5kb3dDb21tYW5kKToKCWRlZiBydW4oc2VsZiwgZ3JvdXAsIGluZGV4KToKCQlmb2xkZXJDb250YWluZXIgPSBGaWxlc0FuZEZvbGRlcnMoKQoJCWZvbGRlckNvbnRhaW5lci5nZXRFdmVyeXRoaW5nKCkKCQlmb2xkZXJDb250YWluZXIuYWRkUGFyZW50Rm9sZGVyKCkKCgoKY2xhc3MgRXh0ZW5kZWRTaWRlYmFyQ29udGV4dENvbW1hbmQoc3VibGltZV9wbHVnaW4uV2luZG93Q29tbWFuZCk6CglkZWYgcnVuKHNlbGYsICoqYXJncyk6CgkJcmV0dXJuCgoKCiMgY2xhc3MgU3luY1NldHRpbmdzQ2FjaGUoc3VibGltZV9wbHVnaW4uRXZlbnRMaXN0ZW5lcik6CiMJZGVmIG9uX2luaXQoc2VsZiwgdmlld3MpOgojCQlzZWxmLmNhY2hlID0gSW5zdGFuY2VDYWNoZSgpCiMJCQojCSBkZWYgb25faG92ZXIoc2VsZiwgVmlldywgUG9pbnQsIEhvdmVyWm9uZSk6CiMJCSBzZWxmLmNhY2hlLnVwZGF0ZU9uSG92ZXIoVmlldywgUG9pbnQsIEhvdmVyWm9uZSkKIwkJIG91dCA9IHNlbGYuY2FjaGUuY29tYmluZSgpCiMJCSBwcmludChzZWxmLmNhY2hlLnByb2pfZmlsZSkKIwkJIHByaW50KHNlbGYuY2FjaGUud29ya19maWxlKQojCQkgdkxpc3QgPSBzdWJsaW1lLmFjdGl2ZV93aW5kb3coKS5leHRyYWN0X3ZhcmlhYmxlcygpCiMJCSB4TGlzdCA9IHN1YmxpbWUuZXhwYW5kX3ZhcmlhYmxlcygiJHtmaWxlX3BhdGh9Iiwgdkxpc3QpCiMJCSBwcmludChzdWJsaW1lLmFjdGl2ZV93aW5kb3coKS5mb2xkZXJzKCkpCiMJCQojCSBkZWYgb25fd2luZG93X2NvbW1hbmQoc2VsZiwgd2luZG93LCBjb21tYW5kX25hbWUsIGFyZ3MpOgojCSAJcmV0dXJuCgkJAAAAAAAAAAD5AwAAAAAAAAAAAAAAAAAAAAAAAPkDAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					32,
+					1,
+					"left_delete",
+					null,
+					"AQAAACQAAAAAAAAAJAAAAAAAAAAZAAAACmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"right_delete",
+					null,
+					"AQAAACQAAAAAAAAAJAAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAJAAAAAAAAAAkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					551,
+					1,
+					"insert",
+					{
+						"characters": " ||"
+					},
+					"AwAAAD4BAAAAAAAAPwEAAAAAAAAAAAAAPwEAAAAAAABAAQAAAAAAAAAAAABAAQAAAAAAAEEBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgEAAAAAAAA+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					552,
+					1,
+					"insert",
+					{
+						"characters": " &&"
+					},
+					"AwAAAEEBAAAAAAAAQgEAAAAAAAAAAAAAQgEAAAAAAABDAQAAAAAAAAAAAABDAQAAAAAAAEQBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQQEAAAAAAABBAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					553,
+					6,
+					"left_delete",
+					null,
+					"BgAAAEMBAAAAAAAAQwEAAAAAAAABAAAAJkIBAAAAAAAAQgEAAAAAAAABAAAAJkEBAAAAAAAAQQEAAAAAAAABAAAAIEABAAAAAAAAQAEAAAAAAAABAAAAfD8BAAAAAAAAPwEAAAAAAAABAAAAfD4BAAAAAAAAPgEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -587,12 +632,16 @@
 		"selected_items":
 		[
 			[
-				"in",
-				"Package Control: Install Package"
-			],
-			[
 				"prefer",
 				"Preferences: Settings"
+			],
+			[
+				"key",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
 			],
 			[
 				"pre",
@@ -621,10 +670,6 @@
 			[
 				"col",
 				"UI: Select Color Scheme"
-			],
-			[
-				"key",
-				"Preferences: Key Bindings"
 			],
 			[
 				"color",
@@ -845,11 +890,10 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext",
-		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/__project"
 	],
 	"file_history":
 	[
+		"/C/Users/jonat/Portables/SublimeTrashed/Sublime Text 4/Data/Packages/Default/Tab Sidebar Context.sublime-menu",
 		"/C/Users/jonat/Portables/Sublime Text 4/Data/Packages/ExtendedSidebarContext/Side Bar Mount Point.sublime-menu",
 		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Preferences.sublime-settings",
 		"/C/Users/jonat/Portables/Sublime Merge/Data/Packages/User/Commit Message.sublime-settings",
@@ -976,12 +1020,11 @@
 		"/C/Users/jonat/AHK Scripts/TestingEnvGen/CustomCascade/CustomCascade.ahk",
 		"/C/Users/jonat/AHK Scripts/TestingEnvGen/SizeWindow/SizeWindow.ahk",
 		"/C/Users/jonat/AHK Scripts/OnByDefault/Settings.ini",
-		"/C/Users/jonat/AHK Scripts/NoteApp/NoteApp.ahk",
-		"/C/Users/jonat/AHK Scripts/MouseRipple/MouseRipple.ahk"
+		"/C/Users/jonat/AHK Scripts/NoteApp/NoteApp.ahk"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -996,6 +1039,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"class",
 			"settings",
 			"font",
 			"dont",
@@ -1095,15 +1139,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1017,
+						"buffer_size": 991,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								64,
-								64
+								98,
+								98
 							]
 						],
 						"settings":
@@ -1133,7 +1177,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 22.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -1198,7 +1242,7 @@
 	"project": "ExtendedSidebarContext.sublime-project",
 	"replace":
 	{
-		"height": 40.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
